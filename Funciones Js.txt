@@ -1,0 +1,34 @@
+1) at(): Accede a un índice.
+2) concat(): Combina arrays.
+3) Array(): Constructor.
+4) copyWithin(): Copia elementos dentro del array.
+5) entries(): Devuelve pares clave/valor.
+6) every(): Verifica si todos los elementos cumplen una condición.
+7) fill(): Llena elementos con un valor.
+8) filter(): Filtra elementos.
+9) find(): Encuentra un elemento.
+10) findIndex(): Encuentra el índice de un elemento.
+11) findLast(): Encuentra el último elemento que cumple una condición.
+12) findLastIndex(): Encuentra el último índice que cumple una condición.
+13) flat(): Aplana el array.
+14) flatMap(): Aplana y mapea el array.
+15) forEach(): Itera sobre elementos.
+16) includes(): Verifica si un elemento está incluido.
+17) indexOf(): Encuentra el índice de un elemento.
+18) lastIndexOf(): Encuentra el último índice de un elemento.
+19) length: Longitud del array.
+20) map(): Transforma elementos.
+21) pop(): Elimina el último elemento.
+22) push(): Añade elementos al final.
+23) reduce(): Reduce el array a un valor.
+24) reduceRight(): Reduce el array de derecha a izquierda.
+25) reverse(): Invierte el array.
+26) shift(): Elimina el primer elemento.
+27) slice(): Extrae una sección.
+28)some(): Verifica si algún elemento cumple una condición.
+29) sort(): Ordena elementos.
+30) splice(): Añade/elimina elementos.
+31) toLocaleString(): Convierte a cadena localizada.
+32) toString(): Convierte a cadena.
+33) unshift(): Añade elementos al inicio.
+34) values(): Devuelve un iterador con los valores.
